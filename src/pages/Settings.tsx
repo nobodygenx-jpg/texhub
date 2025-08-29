@@ -650,6 +650,7 @@ const AVAILABLE_MENU_ITEMS = [
   { id: 'proforma-invoice', label: 'Proforma Invoice', icon: 'FileText' },
   { id: 'inventory', label: 'Inventory Management', icon: 'Package' },
   { id: 'order-management', label: 'Order Management', icon: 'ShoppingCart' },
+  { id: 'production-management', label: 'Production Management', icon: 'Activity' },
   { id: 'social-portal', label: 'Social Portal', icon: 'Users' },
   { id: 'settings', label: 'Settings', icon: 'Settings' },
 ];
